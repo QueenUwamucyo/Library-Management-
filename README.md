@@ -217,15 +217,3 @@ Contributions are welcome! If you’d like to contribute, please follow the step
 
 This project is licensed under the MIT License.
 
----
-
-## Contact
-
-For any inquiries or support, please reach out to:
-
-- **Email**: youremail@example.com
-- **GitHub**: [GitHub Profile](https://github.com/your-username)
-
----
-
-This README provides all necessary information for setting up and using the Library Management System API. Let me know if you need any further adjustments!
