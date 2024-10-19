@@ -26,7 +26,7 @@ class UserRegisterView(APIView):
         if serializer.is_valid():
             user = serializer.save()
             UserProfile.objects.create(user=user)
-            return Response({
+            return Response({ 
                 'message': 'User created successfully.',
                 'data': serializer.data
             }, status=status.HTTP_201_CREATED)
